@@ -18,7 +18,5 @@ Node Version: 16.13.2 (using nvm)
 2. Change db_string in app.py (ln 28) 
 3. Run the application
 <code>
-
 > python3 app.py
-
 </code>

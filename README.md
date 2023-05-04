@@ -6,12 +6,12 @@ Python Version: 3.11
 Node Version: 16.13.2 (using nvm)
 
 ## Installed Packages with pip3
-pip3 install psycopg2-binary
-pip3 install -U flask-cors
-pip3 install SQLAlchemy
-pip3 install sqlalchemy_utils
-pip3 install nanoid
-... (possibly more) 
+- pip3 install psycopg2-binary
+- pip3 install -U flask-cors
+- pip3 install SQLAlchemy
+- pip3 install sqlalchemy_utils
+- pip3 install nanoid
+- ... (possibly more) 
 
 ## Installation instructions 
 1. Ensure Postgresql is installed

@@ -18,6 +18,7 @@ pip3 install nanoid
 2. Change db_string in app.py (ln 28) 
 3. Run the application
 <code>
-    # start the application on port 6005
-    > python3 app.py
+
+> python3 app.py
+
 </code>
